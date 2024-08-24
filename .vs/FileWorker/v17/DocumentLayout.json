@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u0447\u0451\u0431\u0430\\B1\\FileWorker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A779CB62-D4BF-457E-BFE9-299CB710F4D2}|FileWorker\\FileWorker.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\b1\\fileworker\\fileworker\\core\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A779CB62-D4BF-457E-BFE9-299CB710F4D2}|FileWorker\\FileWorker.csproj|solutionrelative:fileworker\\core\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A779CB62-D4BF-457E-BFE9-299CB710F4D2}|FileWorker\\FileWorker.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\b1\\fileworker\\fileworker\\viewmodels\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A779CB62-D4BF-457E-BFE9-299CB710F4D2}|FileWorker\\FileWorker.csproj|solutionrelative:fileworker\\viewmodels\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A779CB62-D4BF-457E-BFE9-299CB710F4D2}|FileWorker\\FileWorker.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\b1\\fileworker\\fileworker\\migrations\\20240823223509_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A779CB62-D4BF-457E-BFE9-299CB710F4D2}|FileWorker\\FileWorker.csproj|solutionrelative:fileworker\\migrations\\20240823223509_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A779CB62-D4BF-457E-BFE9-299CB710F4D2}|FileWorker\\FileWorker.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\b1\\fileworker\\fileworker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A779CB62-D4BF-457E-BFE9-299CB710F4D2}|FileWorker\\FileWorker.csproj|solutionrelative:fileworker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A779CB62-D4BF-457E-BFE9-299CB710F4D2}|FileWorker\\FileWorker.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\b1\\fileworker\\fileworker\\models\\stringmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A779CB62-D4BF-457E-BFE9-299CB710F4D2}|FileWorker\\FileWorker.csproj|solutionrelative:fileworker\\models\\stringmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A779CB62-D4BF-457E-BFE9-299CB710F4D2}|FileWorker\\FileWorker.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\b1\\fileworker\\fileworker\\core\\textgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A779CB62-D4BF-457E-BFE9-299CB710F4D2}|FileWorker\\FileWorker.csproj|solutionrelative:fileworker\\core\\textgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240823223509_initial.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0451\u0431\u0430\\B1\\FileWorker\\FileWorker\\Migrations\\20240823223509_initial.cs",
+              "RelativeDocumentMoniker": "FileWorker\\Migrations\\20240823223509_initial.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0451\u0431\u0430\\B1\\FileWorker\\FileWorker\\Migrations\\20240823223509_initial.cs",
+              "RelativeToolTip": "FileWorker\\Migrations\\20240823223509_initial.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwDcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T22:35:09.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0451\u0431\u0430\\B1\\FileWorker\\FileWorker\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FileWorker\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0443\u0447\u0451\u0431\u0430\\B1\\FileWorker\\FileWorker\\MainWindow.xaml",
+              "RelativeToolTip": "FileWorker\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-23T12:14:53.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0451\u0431\u0430\\B1\\FileWorker\\FileWorker\\Core\\DBContext.cs",
+              "RelativeDocumentMoniker": "FileWorker\\Core\\DBContext.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0451\u0431\u0430\\B1\\FileWorker\\FileWorker\\Core\\DBContext.cs",
+              "RelativeToolTip": "FileWorker\\Core\\DBContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T16:38:16.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainVM.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0451\u0431\u0430\\B1\\FileWorker\\FileWorker\\ViewModels\\MainVM.cs",
+              "RelativeDocumentMoniker": "FileWorker\\ViewModels\\MainVM.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0451\u0431\u0430\\B1\\FileWorker\\FileWorker\\ViewModels\\MainVM.cs",
+              "RelativeToolTip": "FileWorker\\ViewModels\\MainVM.cs",
+              "ViewState": "AQIAAPwAAAAAAAAAAAAcwAsBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T16:37:31.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringModel.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0451\u0431\u0430\\B1\\FileWorker\\FileWorker\\Models\\StringModel.cs",
+              "RelativeDocumentMoniker": "FileWorker\\Models\\StringModel.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0451\u0431\u0430\\B1\\FileWorker\\FileWorker\\Models\\StringModel.cs",
+              "RelativeToolTip": "FileWorker\\Models\\StringModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T16:37:24.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextGenerator.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0451\u0431\u0430\\B1\\FileWorker\\FileWorker\\Core\\TextGenerator.cs",
+              "RelativeDocumentMoniker": "FileWorker\\Core\\TextGenerator.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0451\u0431\u0430\\B1\\FileWorker\\FileWorker\\Core\\TextGenerator.cs",
+              "RelativeToolTip": "FileWorker\\Core\\TextGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T16:36:33.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
